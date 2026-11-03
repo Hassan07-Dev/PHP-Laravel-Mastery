@@ -126,3 +126,12 @@ By the end you should be able to, without notes:
 - Answer "how does X work under the hood?" for the common interview topics.
 
 Good luck — and remember: **the difference between knowing and mastering is typing the code yourself.**
+
+
+---
+
+## 📚 More courses in this series
+
+- [Node.js & Express Mastery](https://github.com/Hassan07-Dev/Node-Js-Mastery)
+- [Python, Django & FastAPI Course](https://github.com/Hassan07-Dev/Python-Django-FastAPI-Course)
+- [React from Scratch to Expert](https://github.com/Hassan07-Dev/react-course)
